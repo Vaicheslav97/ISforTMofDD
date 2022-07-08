@@ -1,0 +1,3 @@
+"C:\Program Files\IIS Express\iisexpress.exe " /path:"F:\диск с\Desktop\ПГТУ\8 семестр\Diploma\WebApplication2\WebApplication2" 
+pause
+   

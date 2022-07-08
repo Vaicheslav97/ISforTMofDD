@@ -1,0 +1,4 @@
+ Скачиваем сервер IIS Express (10 версия) и устанавливаем его в папку по умолчанию C:\Program Files\IIS Express\
+
+    Запускаем IIS Express сервер из командной строки и указываем ему папку с сайтом "C:\Program Files\IIS Express\iisexpress.exe" /path:"D:\www\site" /port:9090 /clr:v2.0
+    Запускаем сайт: http://localhost:9090/
